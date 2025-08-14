@@ -1,2 +1,2 @@
 # demo
-Thios is my repositary
+This is my repositary
